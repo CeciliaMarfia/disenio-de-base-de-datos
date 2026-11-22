@@ -37,7 +37,3 @@ Material de la materia Diseño de Bases de Datos (Facultad de Informática, UNLP
 ## Entorno de trabajo
 
 Para practicar SQL se usa MySQL con Adminer en Docker. Los pasos están en [`docker/guia-mysql-adminer-docker.pdf`](docker/guia-mysql-adminer-docker.pdf) y los archivos de configuración en `docker/docker-curso-dbd.zip`.
-
-## Convención de nombres
-
-Archivos y carpetas en minúsculas, sin tildes ni espacios, con palabras separadas por guiones: `tipo-numero-tema.ext` (por ejemplo `practica-4-sql.pdf`).
