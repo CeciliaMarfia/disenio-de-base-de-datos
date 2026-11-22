@@ -21,6 +21,13 @@ Material de la materia Diseño de Bases de Datos (Facultad de Informática, UNLP
 │       ├── explicacion-5-sql.pdf
 │       ├── explicacion-6-sql-parte-2.pdf
 │       └── practica-4-sql.pdf
+├── teoria/                      # Diapositivas de las clases teóricas
+│   ├── 3-1-conceptual-segunda-parte.pptx
+│   ├── 5-1-algebra-relacional.pptx
+│   ├── 6-2-sql-parte-2.pptx
+│   ├── 7-optimizacion.pptx
+│   ├── 8-1-transacciones-primera-parte.pptx
+│   └── ejemplos-caser/          # Ejemplos de modelos hechos en CASER
 ├── docker/                      # Entorno MySQL + Adminer
 │   ├── guia-mysql-adminer-docker.pdf
 │   └── docker-curso-dbd.zip
@@ -33,6 +40,8 @@ Material de la materia Diseño de Bases de Datos (Facultad de Informática, UNLP
 2. **Modelo lógico y físico**: pasaje del modelo conceptual a tablas, claves y restricciones.
 3. **Álgebra relacional**: selección, proyección, producto cartesiano, junta, división y demás operadores.
 4. **SQL**: consultas, funciones de agregación, agrupamiento, subconsultas y modificación de datos.
+5. **Optimización de consultas**.
+6. **Transacciones**.
 
 ## Entorno de trabajo
 
